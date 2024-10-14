@@ -1,0 +1,1000 @@
+ID,DemAffl,DemAge,DemClusterGroup,DemGender,DemReg,DemTVReg,LoyalClass,LoyalSpend,LoyalTime
+140,10.0,76.0,C,U,Midlands,Wales & West,Gold,16000.0,4.0
+620,4.0,49.0,D,U,Midlands,Wales & West,Gold,6000.0,5.0
+868,5.0,70.0,D,F,Midlands,Wales & West,Silver,0.019999999999999997,8.0
+1120,10.0,65.0,F,M,Midlands,Midlands,Tin,0.009999999999999998,7.0
+2313,11.0,68.0,A,F,Midlands,Midlands,Tin,0.009999999999999998,8.0
+2771,9.0,72.0,D,U,North,N West,Platinum,20759.809999999998,3.0
+3131,11.0,74.0,A,F,Midlands,East,Tin,0.009999999999999998,8.0
+3328,13.0,62.0,D,M,North,N East,Tin,0.009999999999999998,5.0
+4529,10.0,62.0,F,M,Midlands,East,Silver,2038.76,3.0
+5886,14.0,43.0,F,F,,,Gold,6000.0,1.0
+7420,7.0,60.0,F,F,North,N East,Gold,11000.0,2.0
+9814,5.0,,C,M,South East,London,Silver,5000.0,1.0
+10006,9.0,51.0,F,F,Midlands,Midlands,Silver,300.0,11.0
+10219,6.0,64.0,C,F,South East,S & S East,Tin,0.009999999999999998,9.0
+10812,16.0,37.0,C,F,South East,London,Tin,0.009999999999999998,4.0
+11207,8.0,54.0,D,M,Midlands,Midlands,Silver,1420.0,1.0
+11932,5.0,70.0,B,F,Midlands,Midlands,Gold,6104.66,8.0
+14656,,42.0,C,F,Midlands,East,Tin,0.009999999999999998,5.0
+15350,7.0,,E,F,Scottish,C Scotland,Tin,0.009999999999999998,5.0
+17302,7.0,49.0,D,,South East,London,Tin,0.009999999999999998,7.0
+19496,9.0,66.0,F,F,Midlands,Midlands,Silver,500.0,12.0
+19763,9.0,74.0,B,F,Midlands,Wales & West,Gold,6000.0,2.0
+20478,6.0,70.0,E,,Midlands,East,Gold,16000.0,2.0
+20761,7.0,66.0,D,M,South East,S & S East,Silver,1000.0,5.0
+23124,6.0,46.0,D,F,South East,London,Tin,0.009999999999999998,8.0
+24554,10.0,39.0,,M,Midlands,Ulster,Tin,0.009999999999999998,5.0
+24880,7.0,75.0,B,M,Midlands,East,Silver,4000.0,7.0
+26387,,72.0,,F,Midlands,Ulster,Silver,1250.0,23.0
+27715,7.0,43.0,F,M,North,N West,Tin,0.009999999999999998,5.0
+29173,7.0,62.0,C,F,Midlands,Wales & West,Gold,20000.0,4.0
+29440,8.0,37.0,B,M,South West,S West,Silver,1000.0,9.0
+30600,9.0,49.0,F,F,South East,London,Tin,0.009999999999999998,8.0
+30937,8.0,79.0,D,,North,N East,Gold,6000.0,1.0
+39330,,,F,M,Midlands,East,Tin,0.009999999999999998,4.0
+41092,3.0,50.0,D,F,Midlands,East,Gold,9800.0,3.0
+41475,,66.0,D,M,South East,London,Tin,0.009999999999999998,11.0
+42439,15.0,35.0,C,F,Midlands,Wales & West,Silver,1630.0,5.0
+45799,10.0,71.0,B,F,Midlands,Wales & West,Silver,1500.0,5.0
+46906,7.0,44.0,F,F,North,N West,Silver,1000.0,1.0
+50237,8.0,42.0,B,M,North,N East,Tin,0.009999999999999998,5.0
+51950,9.0,68.0,B,F,South West,S West,Gold,6053.25,5.0
+54496,9.0,31.0,D,F,North,Yorkshire,Tin,0.009999999999999998,4.0
+56073,8.0,70.0,B,F,South East,London,Gold,19053.82,15.0
+57002,7.0,72.0,E,F,North,N East,Platinum,20526.96,3.0
+57622,12.0,41.0,,M,Midlands,East,Tin,0.009999999999999998,9.0
+59056,9.0,37.0,F,F,North,N East,Gold,6000.0,1.0
+59862,8.0,58.0,C,F,North,N West,Gold,10053.349999999999,7.0
+63002,7.0,47.0,D,F,South East,London,Silver,0.019999999999999997,5.0
+63983,8.0,71.0,E,M,Midlands,East,Silver,1000.0,6.0
+71986,8.0,62.0,D,F,Midlands,Midlands,Silver,1000.0,5.0
+72559,15.0,72.0,E,U,Midlands,Midlands,Gold,6340.26,12.0
+73148,8.0,39.0,E,F,Midlands,Midlands,Silver,2241.3599999999997,4.0
+75205,6.0,76.0,D,M,Midlands,Wales & West,Gold,12000.0,19.0
+75469,7.0,61.0,B,F,Scottish,Border,Gold,6000.0,11.0
+80322,6.0,53.0,D,,Midlands,Midlands,Tin,0.009999999999999998,5.0
+80608,8.0,60.0,C,M,North,Yorkshire,Silver,60.0,11.0
+82678,15.0,42.0,F,F,South East,London,Tin,0.009999999999999998,5.0
+83852,13.0,,A,F,South East,London,Silver,5000.0,4.0
+84573,10.0,57.0,E,F,Midlands,Midlands,Silver,50.0,11.0
+87750,6.0,45.0,F,M,Midlands,Midlands,Tin,0.009999999999999998,4.0
+89796,11.0,75.0,B,F,Midlands,East,Silver,3052.66,8.0
+91588,8.0,37.0,E,F,North,Yorkshire,Tin,0.009999999999999998,5.0
+93564,13.0,61.0,E,U,South West,S West,Silver,3000.0,8.0
+95036,12.0,61.0,B,F,,,Silver,1020.0,9.0
+95982,19.0,39.0,A,F,North,Yorkshire,Tin,0.009999999999999998,8.0
+97802,7.0,55.0,,M,Midlands,Ulster,Silver,2000.0,1.0
+102385,8.0,57.0,B,M,Scottish,C Scotland,Gold,9000.0,9.0
+103225,13.0,18.0,C,F,South East,S & S East,Gold,6000.0,1.0
+108413,5.0,56.0,A,U,North,N West,Silver,3000.0,8.0
+109819,9.0,50.0,D,F,North,N East,Gold,20000.0,4.0
+113743,,54.0,F,F,North,N West,Silver,2000.0,2.0
+117498,11.0,67.0,B,U,North,N East,Platinum,22000.0,8.0
+118397,7.0,78.0,E,F,Midlands,Midlands,Silver,2000.0,24.0
+121312,5.0,61.0,C,F,Midlands,Midlands,Tin,0.009999999999999998,5.0
+121495,5.0,45.0,B,,South East,London,Silver,600.0,11.0
+124710,11.0,66.0,A,F,South East,London,Silver,2000.0,5.0
+126098,2.0,51.0,C,U,North,Yorkshire,Gold,10000.0,5.0
+126586,3.0,,C,F,Midlands,Midlands,Gold,15000.0,1.0
+127892,10.0,60.0,B,,North,N West,Silver,1020.0,9.0
+129283,9.0,48.0,C,M,Midlands,East,Silver,3000.0,2.0
+129410,8.0,53.0,C,F,South East,S & S East,Silver,100.0,1.0
+134872,10.0,72.0,E,U,Midlands,Midlands,Gold,12000.0,8.0
+140597,9.0,68.0,E,F,South East,London,Tin,0.009999999999999998,7.0
+144649,8.0,47.0,A,F,Scottish,N Scot,Tin,0.009999999999999998,5.0
+145157,11.0,39.0,E,F,South East,London,Silver,2800.0,1.0
+146730,12.0,72.0,A,F,South East,London,Tin,0.009999999999999998,8.0
+148415,10.0,67.0,E,M,South East,London,Gold,6000.0,4.0
+148849,9.0,60.0,C,F,South East,London,Tin,0.009999999999999998,8.0
+151432,6.0,,D,M,North,Yorkshire,Gold,9000.0,3.0
+154040,11.0,52.0,F,M,North,N West,Tin,0.009999999999999998,9.0
+156515,7.0,55.0,D,F,Midlands,Midlands,Tin,0.009999999999999998,8.0
+158216,14.0,65.0,,M,South East,S & S East,Gold,6053.349999999999,6.0
+159522,13.0,41.0,B,M,South East,London,Tin,0.009999999999999998,7.0
+162485,16.0,34.0,D,F,Midlands,East,Silver,3000.0,3.0
+165808,6.0,40.0,D,F,North,N West,Silver,1500.0,7.0
+168394,9.0,35.0,F,F,South East,London,Tin,0.009999999999999998,4.0
+170127,7.0,50.0,B,M,North,Yorkshire,Silver,5000.0,10.0
+181498,6.0,62.0,A,,North,N West,Silver,3000.0,29.0
+191396,7.0,,F,M,North,Yorkshire,Tin,0.009999999999999998,10.0
+192791,9.0,60.0,C,M,Midlands,East,Gold,8100.0,5.0
+197440,8.0,49.0,B,F,North,N West,Gold,7600.0,4.0
+202878,6.0,57.0,F,M,Midlands,Midlands,Silver,2000.0,8.0
+203289,7.0,52.0,F,U,Midlands,Midlands,Platinum,23053.35,6.0
+206032,6.0,75.0,F,M,Scottish,C Scotland,Gold,10000.0,17.0
+209732,15.0,55.0,E,,Midlands,Midlands,Gold,10000.0,6.0
+213241,5.0,57.0,F,F,,,Gold,12000.0,1.0
+215554,8.0,52.0,C,F,North,N West,Silver,2500.0,6.0
+217158,12.0,74.0,A,F,Midlands,East,Gold,6000.0,5.0
+223182,9.0,79.0,D,F,South East,London,Silver,5000.0,5.0
+234540,6.0,48.0,D,,North,Yorkshire,Silver,420.0,4.0
+239844,11.0,60.0,E,,South East,London,Tin,0.009999999999999998,8.0
+243051,3.0,38.0,F,F,North,N West,Silver,50.0,9.0
+248258,9.0,58.0,B,F,North,N West,Silver,5000.0,5.0
+249335,4.0,52.0,D,M,Midlands,Wales & West,Silver,1800.0,4.0
+252646,3.0,45.0,F,F,North,Yorkshire,Silver,100.01,9.0
+253839,9.0,42.0,F,F,North,N West,Silver,2000.0,4.0
+256366,10.0,40.0,F,U,Midlands,Midlands,Silver,50.0,10.0
+259802,5.0,55.0,D,,Midlands,Midlands,Gold,10100.0,8.0
+262684,8.0,77.0,C,,Midlands,Midlands,Gold,6000.0,3.0
+263419,11.0,27.0,C,F,South East,London,Tin,0.009999999999999998,7.0
+267236,4.0,60.0,E,F,North,N West,Tin,0.009999999999999998,8.0
+270962,7.0,58.0,A,U,South East,London,Silver,2500.0,5.0
+271101,7.0,54.0,B,,Midlands,Midlands,Tin,0.009999999999999998,
+274623,7.0,42.0,D,M,North,N West,Tin,0.009999999999999998,4.0
+275700,10.0,36.0,F,F,,,Silver,1000.0,9.0
+276871,6.0,,E,F,South East,London,Gold,5500.0,1.0
+277010,4.0,57.0,D,F,South East,London,Tin,0.009999999999999998,5.0
+278661,10.0,72.0,C,F,Midlands,Midlands,Gold,11105.32,8.0
+280895,10.0,,C,F,Midlands,East,Tin,0.009999999999999998,6.0
+282057,7.0,37.0,F,F,North,N West,Tin,0.009999999999999998,5.0
+285846,9.0,76.0,F,F,Midlands,East,Silver,2000.0,8.0
+287628,6.0,45.0,D,F,North,N West,Tin,0.009999999999999998,5.0
+288748,14.0,,C,F,South East,S & S East,Gold,10000.0,8.0
+290890,,51.0,F,M,South East,London,Silver,0.019999999999999997,9.0
+293083,15.0,61.0,B,,South East,S & S East,Silver,500.0,2.0
+293555,12.0,61.0,B,F,Scottish,N Scot,Silver,4000.0,1.0
+295620,9.0,47.0,,M,Midlands,Ulster,Tin,0.009999999999999998,5.0
+297194,8.0,52.0,F,U,Midlands,East,Tin,0.009999999999999998,8.0
+300845,8.0,40.0,E,U,Midlands,Midlands,Silver,1000.0,1.0
+301175,5.0,56.0,D,F,Midlands,Midlands,Tin,0.009999999999999998,9.0
+301981,8.0,51.0,F,F,North,N West,Gold,9000.01,8.0
+310786,9.0,50.0,C,F,South East,London,Gold,12000.0,2.0
+312169,4.0,46.0,E,,North,N West,Tin,0.009999999999999998,5.0
+312762,8.0,41.0,B,F,South East,S & S East,Silver,1675.0,7.0
+315559,8.0,60.0,B,M,South East,London,Silver,100.01,8.0
+315788,10.0,70.0,B,F,South East,S & S East,Silver,2250.0,8.0
+316350,9.0,50.0,D,F,South East,London,Tin,0.009999999999999998,9.0
+317640,15.0,37.0,F,F,Midlands,Midlands,Tin,0.009999999999999998,8.0
+317950,9.0,74.0,C,F,South East,London,Silver,3000.0,5.0
+318922,8.0,61.0,E,,South West,S West,Silver,1200.0,6.0
+323039,8.0,49.0,A,,North,N West,Silver,4000.0,3.0
+324469,7.0,,D,F,South East,S & S East,Tin,0.009999999999999998,8.0
+331341,9.0,53.0,B,M,Scottish,C Scotland,Gold,6000.0,4.0
+332658,4.0,,D,F,Midlands,Midlands,Tin,0.009999999999999998,5.0
+335606,,59.0,E,U,Scottish,Border,Silver,2500.0,7.0
+340146,7.0,63.0,B,,North,N West,Tin,0.009999999999999998,5.0
+342033,7.0,51.0,D,F,North,N West,Silver,3026.6699999999996,10.0
+343102,5.0,62.0,D,F,North,N West,Platinum,56053.35,7.0
+345474,3.0,46.0,C,F,South East,S & S East,Silver,0.09999999999999999,10.0
+345865,10.0,39.0,E,M,North,Yorkshire,Gold,7500.0,2.0
+346225,6.0,53.0,E,M,South East,S & S East,Silver,3000.0,6.0
+346403,10.0,,D,,Midlands,Midlands,Tin,0.009999999999999998,5.0
+347086,7.0,48.0,C,F,South East,London,Silver,5000.0,4.0
+347531,7.0,62.0,B,F,South East,S & S East,Gold,12808.95,11.0
+349291,9.0,26.0,B,M,South East,London,Silver,4000.0,1.0
+349739,7.0,,E,F,North,N East,Silver,2500.0,5.0
+351482,6.0,43.0,E,F,South West,S West,Gold,6000.0,2.0
+356425,7.0,78.0,E,F,Midlands,Midlands,Gold,6000.0,5.0
+356719,3.0,67.0,C,F,Midlands,East,Gold,12049.25,3.0
+357898,2.0,45.0,D,F,North,N West,Tin,0.009999999999999998,5.0
+358649,10.0,60.0,D,,Scottish,C Scotland,Tin,0.009999999999999998,5.0
+359955,13.0,68.0,E,F,South East,London,Gold,7500.0,6.0
+361283,14.0,74.0,A,U,South East,S & S East,Platinum,20245.89,3.0
+362468,5.0,53.0,D,M,Midlands,Midlands,Tin,0.009999999999999998,8.0
+369225,5.0,51.0,C,M,Scottish,C Scotland,Silver,420.0,8.0
+369780,9.0,,A,F,South East,S & S East,Platinum,25000.0,1.0
+370398,6.0,51.0,F,F,South East,S & S East,Silver,200.0,1.0
+370622,5.0,51.0,A,U,South East,S & S East,Silver,200.0,2.0
+371475,11.0,36.0,C,M,South East,London,Tin,0.009999999999999998,4.0
+374644,8.0,63.0,F,F,Midlands,Wales & West,Gold,6000.0,2.0
+375330,8.0,69.0,C,F,South East,S & S East,Silver,500.0,9.0
+376078,11.0,40.0,D,F,Midlands,Midlands,Tin,0.009999999999999998,5.0
+380113,4.0,46.0,E,F,Midlands,Wales & West,Silver,2165.75,11.0
+393347,,46.0,D,M,South East,S & S East,Tin,0.009999999999999998,8.0
+396192,8.0,46.0,A,F,South East,S & S East,Silver,2245.0,11.0
+397407,9.0,38.0,D,F,North,N West,Tin,0.009999999999999998,5.0
+397660,4.0,67.0,F,M,North,N West,Gold,11000.0,5.0
+400297,11.0,73.0,F,U,North,Yorkshire,Platinum,26000.0,4.0
+403768,5.0,53.0,B,F,Scottish,Border,Gold,9000.0,8.0
+407364,6.0,55.0,E,F,Midlands,Midlands,Silver,5000.0,4.0
+408964,9.0,54.0,A,F,South East,London,Silver,3000.0,8.0
+414832,6.0,45.0,F,M,South East,London,Tin,0.009999999999999998,5.0
+418943,10.0,39.0,C,M,,,Tin,0.009999999999999998,4.0
+421979,5.0,58.0,E,F,North,N West,Silver,420.0,4.0
+423211,8.0,33.0,D,F,North,N East,Tin,0.009999999999999998,5.0
+434671,11.0,35.0,D,M,South East,London,Tin,0.009999999999999998,8.0
+435961,4.0,71.0,A,M,North,Yorkshire,Gold,6000.0,12.0
+439088,10.0,55.0,B,M,Scottish,Border,Tin,0.009999999999999998,4.0
+442542,,57.0,D,M,South West,S West,Silver,480.0,11.0
+454702,13.0,53.0,B,M,South East,London,Gold,6871.12,5.0
+462705,9.0,58.0,E,F,South East,London,Silver,1500.0,19.0
+467812,13.0,43.0,C,M,North,Yorkshire,Tin,0.009999999999999998,5.0
+473596,8.0,47.0,D,F,South East,London,Tin,0.009999999999999998,5.0
+479403,4.0,74.0,C,M,South East,S & S East,Gold,6000.0,2.0
+481572,10.0,49.0,E,M,North,N East,Silver,5000.0,1.0
+486701,9.0,58.0,D,F,South East,S & S East,Silver,3000.0,9.0
+492566,8.0,56.0,D,F,Midlands,Midlands,Tin,0.009999999999999998,8.0
+498300,5.0,47.0,B,F,South East,S & S East,Gold,6000.0,1.0
+500100,14.0,30.0,F,F,Midlands,Midlands,Silver,100.0,1.0
+502316,3.0,68.0,D,F,South East,S & S East,Platinum,50000.0,4.0
+503053,8.0,45.0,D,F,North,N West,Silver,1000.0,4.0
+518069,7.0,71.0,A,F,South East,London,Gold,12000.0,6.0
+523259,10.0,65.0,D,F,South East,S & S East,Gold,9053.349999999999,8.0
+528102,10.0,74.0,C,F,South East,London,Gold,19000.0,5.0
+530042,10.0,43.0,D,F,North,N West,Tin,0.009999999999999998,5.0
+532479,11.0,44.0,E,F,South West,S West,Silver,500.0,9.0
+543004,9.0,65.0,F,U,South East,London,Silver,3000.0,5.0
+543683,7.0,46.0,D,M,South East,S & S East,Gold,17409.760000000002,12.0
+553115,8.0,29.0,F,F,Midlands,Midlands,Silver,2000.0,12.0
+580287,7.0,53.0,C,F,Midlands,Wales & West,Tin,0.009999999999999998,5.0
+588784,9.0,64.0,E,M,Midlands,Midlands,Silver,1000.0,12.0
+595233,10.0,49.0,D,M,South East,S & S East,Silver,3000.0,5.0
+598453,17.0,59.0,F,F,South East,London,Gold,12000.0,8.0
+600504,8.0,37.0,F,F,North,N West,Tin,0.009999999999999998,5.0
+601969,5.0,60.0,B,,South East,London,Gold,10000.0,2.0
+602906,10.0,64.0,F,,North,Yorkshire,Tin,0.009999999999999998,4.0
+604011,3.0,,C,F,North,N West,Silver,5000.0,4.0
+606316,15.0,51.0,C,F,South East,London,Silver,3000.0,8.0
+607118,8.0,47.0,,F,Midlands,Midlands,Tin,0.009999999999999998,5.0
+607444,18.0,51.0,B,F,Midlands,Wales & West,Silver,3000.0,3.0
+608378,5.0,58.0,D,F,Scottish,C Scotland,Silver,3050.0,11.0
+610283,9.0,46.0,A,M,South East,London,Tin,0.009999999999999998,9.0
+611662,5.0,48.0,D,U,South East,London,Tin,0.009999999999999998,5.0
+618284,15.0,,E,F,Midlands,East,Silver,0.019999999999999997,
+621358,4.0,61.0,C,F,Midlands,Midlands,Gold,6000.0,1.0
+630888,9.0,38.0,C,F,Midlands,Midlands,Tin,0.009999999999999998,5.0
+633380,7.0,68.0,E,M,South East,S & S East,Gold,15000.01,6.0
+633542,12.0,76.0,F,F,Midlands,Wales & West,Gold,6000.0,2.0
+641022,4.0,56.0,D,F,North,Yorkshire,Tin,0.009999999999999998,8.0
+642568,8.0,73.0,A,M,North,N East,Silver,360.0,1.0
+649007,8.0,37.0,D,F,Midlands,Midlands,Tin,0.009999999999999998,9.0
+653500,,32.0,C,F,Midlands,Midlands,Silver,2500.0,1.0
+663603,11.0,74.0,A,F,South East,London,Silver,3350.0,4.0
+666238,9.0,65.0,D,M,North,Yorkshire,Gold,6107.639999999999,
+667692,5.0,60.0,E,F,Midlands,Midlands,Silver,5000.0,2.0
+669067,10.0,35.0,D,F,Scottish,C Scotland,Silver,1500.0,4.0
+672785,6.0,46.0,C,F,Scottish,N Scot,Gold,6544.99,1.0
+674885,3.0,46.0,E,F,South East,London,Gold,6000.0,5.0
+682144,5.0,70.0,E,F,South East,London,Platinum,21684.94,0.0
+691178,9.0,37.0,,M,Midlands,Ulster,Gold,10000.0,11.0
+693847,4.0,46.0,B,U,South East,S & S East,Gold,6000.0,3.0
+708569,3.0,68.0,E,U,Scottish,C Scotland,Silver,4000.0,18.0
+711616,10.0,,B,U,Midlands,Midlands,Platinum,50000.0,4.0
+714054,11.0,,D,U,Midlands,Wales & West,Silver,5000.0,5.0
+723185,12.0,49.0,E,F,South East,London,Silver,3000.0,3.0
+734446,4.0,63.0,E,F,Midlands,Midlands,Silver,3026.6699999999996,7.0
+741779,4.0,62.0,B,U,Midlands,Midlands,Silver,5000.0,5.0
+742880,5.0,,E,F,South East,S & S East,Gold,10000.0,7.0
+745421,5.0,62.0,D,,Midlands,East,Silver,0.019999999999999997,8.0
+749044,5.0,74.0,C,U,North,N East,Gold,6000.0,1.0
+750840,5.0,52.0,,F,South East,S & S East,Tin,0.009999999999999998,5.0
+755931,,42.0,B,F,North,N West,Tin,0.009999999999999998,4.0
+760641,8.0,74.0,D,,Midlands,Midlands,Gold,6000.0,17.0
+764876,7.0,43.0,D,F,South East,S & S East,Tin,0.009999999999999998,5.0
+770264,8.0,64.0,C,F,South East,London,Gold,12000.0,2.0
+775258,12.0,31.0,E,F,North,N West,Silver,1100.0,9.0
+778176,11.0,41.0,D,F,North,N East,Silver,1000.0,5.0
+779199,9.0,45.0,F,F,Midlands,Wales & West,Tin,0.009999999999999998,8.0
+794872,8.0,67.0,C,,South East,London,Gold,10000.01,2.0
+795267,17.0,,A,F,South East,London,Silver,1000.0,13.0
+796026,9.0,40.0,C,F,South East,London,Tin,0.009999999999999998,5.0
+802069,7.0,70.0,B,F,South East,S & S East,Gold,12000.0,2.0
+804061,20.0,,C,F,South East,S & S East,Silver,480.0,1.0
+806994,6.0,56.0,F,,Midlands,Midlands,Tin,0.009999999999999998,5.0
+807877,,,B,F,South East,London,Gold,8053.349999999999,1.0
+811831,15.0,32.0,F,,North,Yorkshire,Tin,0.009999999999999998,5.0
+819301,10.0,51.0,,M,Midlands,Ulster,Silver,1000.0,6.0
+823066,8.0,65.0,B,,South East,London,Silver,50.0,7.0
+823961,8.0,52.0,F,F,Midlands,Wales & West,Gold,6000.0,2.0
+826758,8.0,,C,F,Scottish,C Scotland,Gold,6000.0,2.0
+827614,6.0,38.0,E,F,South East,S & S East,Tin,0.009999999999999998,9.0
+830380,8.0,43.0,D,F,South East,London,Silver,50.0,10.0
+835404,7.0,37.0,E,M,North,N West,Tin,0.009999999999999998,5.0
+836222,7.0,42.0,C,M,Scottish,N Scot,Tin,0.009999999999999998,5.0
+841013,4.0,22.0,A,U,Midlands,Midlands,Gold,6000.0,3.0
+842486,8.0,31.0,E,U,Midlands,East,Tin,0.009999999999999998,8.0
+848085,15.0,33.0,B,F,North,N West,Silver,0.019999999999999997,7.0
+851396,9.0,,F,M,South East,London,Silver,600.0,7.0
+853291,8.0,31.0,F,,Midlands,Midlands,Silver,5000.0,1.0
+856916,8.0,54.0,D,M,Scottish,C Scotland,Gold,12000.0,8.0
+861820,5.0,54.0,C,F,South East,S & S East,Silver,1000.0,2.0
+870307,9.0,53.0,B,M,North,Yorkshire,Gold,6000.0,3.0
+871095,16.0,37.0,F,F,North,Yorkshire,Tin,0.009999999999999998,5.0
+875694,8.0,63.0,D,,South West,S West,Gold,6000.0,2.0
+876623,3.0,33.0,,M,North,N West,Tin,0.009999999999999998,5.0
+878812,7.0,65.0,B,F,South East,London,Tin,0.009999999999999998,8.0
+889199,14.0,39.0,E,F,Midlands,Midlands,Silver,50.0,10.0
+897485,9.0,42.0,F,F,Scottish,C Scotland,Gold,6000.0,2.0
+899186,6.0,67.0,E,M,North,Yorkshire,Silver,3000.0,8.0
+903191,11.0,43.0,F,F,Midlands,Midlands,Tin,0.009999999999999998,5.0
+908584,9.0,,C,M,North,N West,Gold,6000.0,6.0
+909459,8.0,50.0,C,F,South East,S & S East,Silver,0.019999999999999997,9.0
+910007,5.0,70.0,B,,Midlands,Midlands,Gold,12000.0,5.0
+918237,13.0,58.0,D,F,Midlands,Midlands,Tin,0.009999999999999998,8.0
+919551,13.0,50.0,,F,,,Tin,0.009999999999999998,5.0
+922366,7.0,78.0,,F,Midlands,Ulster,Silver,1250.0,5.0
+929506,5.0,79.0,B,M,Midlands,East,Gold,6000.0,8.0
+935530,8.0,68.0,A,F,South East,London,Silver,800.0,8.0
+943517,9.0,48.0,A,F,South East,London,Silver,600.0,8.0
+946311,9.0,,C,M,South East,London,Silver,3000.0,3.0
+950033,12.0,35.0,F,M,South West,S West,Silver,1500.0,5.0
+951897,9.0,38.0,D,F,Midlands,East,Tin,0.009999999999999998,4.0
+952729,11.0,42.0,C,M,North,N West,Gold,6041.13,5.0
+956155,14.0,50.0,C,M,North,N West,Silver,420.01,4.0
+956635,4.0,63.0,C,M,North,N West,Tin,0.009999999999999998,5.0
+963194,9.0,75.0,C,F,South East,London,Gold,6000.0,1.0
+966932,8.0,50.0,D,F,South East,London,Silver,50.0,8.0
+985295,2.0,58.0,D,F,South East,London,Tin,0.009999999999999998,8.0
+994332,8.0,66.0,,F,Midlands,Ulster,Silver,500.0,8.0
+997684,6.0,54.0,F,F,South East,London,Silver,50.0,11.0
+1002422,7.0,54.0,D,F,North,N West,Tin,0.009999999999999998,5.0
+1003402,18.0,38.0,F,F,South East,London,Tin,0.009999999999999998,6.0
+1004301,6.0,,F,M,Midlands,East,Gold,6000.0,2.0
+1008129,8.0,55.0,C,M,South East,London,Silver,1000.0,5.0
+1009060,8.0,52.0,E,M,Scottish,C Scotland,Tin,0.009999999999999998,4.0
+1009931,11.0,59.0,D,F,Midlands,Midlands,Silver,1500.0,2.0
+1011243,6.0,63.0,F,M,South West,S West,Silver,1000.0,2.0
+1011669,15.0,47.0,E,M,North,N West,Tin,0.009999999999999998,6.0
+1012509,6.0,44.0,F,F,South East,London,Tin,0.009999999999999998,8.0
+1013394,7.0,39.0,A,F,South East,London,Tin,0.009999999999999998,7.0
+1018361,5.0,72.0,A,U,Midlands,Midlands,Gold,6000.0,2.0
+1022334,8.0,38.0,F,M,Midlands,Wales & West,Tin,0.009999999999999998,5.0
+1024248,13.0,72.0,D,F,South East,S & S East,Tin,0.009999999999999998,8.0
+1029592,11.0,,D,M,South East,London,Tin,0.009999999999999998,4.0
+1030302,6.0,76.0,F,,Scottish,Border,Silver,3000.0,8.0
+1036084,11.0,50.0,D,,North,N East,Silver,3000.0,8.0
+1040227,7.0,66.0,C,F,Midlands,Wales & West,Gold,9000.0,8.0
+1040944,6.0,51.0,E,,South East,London,Tin,0.009999999999999998,5.0
+1041231,7.0,61.0,C,,Midlands,Midlands,Gold,6107.639999999999,
+1043773,3.0,63.0,C,,Midlands,Midlands,Tin,0.009999999999999998,8.0
+1054015,6.0,78.0,F,F,South East,London,Gold,7500.0,5.0
+1055682,9.0,55.0,B,M,Midlands,East,Gold,5672.3099999999995,2.0
+1060228,7.0,49.0,F,M,Midlands,Midlands,Gold,10000.0,3.0
+1061348,13.0,70.0,B,,South East,London,Silver,2884.96,8.0
+1068601,6.0,45.0,D,F,Midlands,Midlands,Tin,0.009999999999999998,4.0
+1070037,5.0,73.0,F,F,Scottish,C Scotland,Silver,600.0,32.0
+1070460,8.0,71.0,A,F,South East,London,Platinum,23425.0,4.0
+1072773,14.0,52.0,D,F,South East,London,Gold,7017.55,5.0
+1080016,11.0,52.0,D,F,Midlands,East,Tin,0.009999999999999998,
+1083767,9.0,64.0,F,F,,,Silver,3000.0,1.0
+1084607,9.0,57.0,C,F,Midlands,Midlands,Gold,9052.66,7.0
+1087452,6.0,,E,F,Midlands,Midlands,Silver,2000.0,27.0
+1091085,10.0,63.0,D,M,North,N West,Gold,6053.339999999999,4.0
+1094955,,32.0,E,F,Midlands,Midlands,Tin,0.009999999999999998,4.0
+1097474,20.0,39.0,C,M,North,N West,Tin,0.009999999999999998,8.0
+1098918,7.0,35.0,C,F,Midlands,Midlands,Tin,0.009999999999999998,4.0
+1101579,8.0,58.0,F,F,Midlands,Wales & West,Silver,1930.0,9.0
+1103288,10.0,40.0,C,F,Midlands,Midlands,Tin,0.009999999999999998,4.0
+1104136,13.0,,C,M,South East,S & S East,Silver,980.0,5.0
+1108646,9.0,61.0,A,F,South East,London,Gold,12150.0,11.0
+1111434,13.0,70.0,C,F,North,N West,Silver,500.0,11.0
+1115014,12.0,,D,F,Midlands,Midlands,Gold,9000.0,11.0
+1117629,7.0,,D,F,Midlands,Midlands,Tin,0.009999999999999998,8.0
+1128353,5.0,70.0,F,F,North,N West,Silver,3500.0,5.0
+1131451,6.0,60.0,A,F,Midlands,Wales & West,Gold,10000.0,4.0
+1134051,14.0,77.0,B,F,South East,S & S East,Silver,4884.25,11.0
+1135724,10.0,74.0,E,F,South East,S & S East,Silver,4500.0,12.0
+1136585,7.0,67.0,D,F,Midlands,Wales & West,Silver,3000.0,5.0
+1137492,7.0,51.0,D,M,Midlands,Midlands,Gold,17000.0,11.0
+1138235,18.0,37.0,C,F,Midlands,Midlands,Silver,50.01,8.0
+1143662,8.0,35.0,F,,North,N West,Gold,5044.459999999999,5.0
+1150820,5.0,58.0,C,F,Scottish,N Scot,Gold,6000.0,22.0
+1151037,6.0,27.0,D,F,South East,S & S East,Silver,5.0,7.0
+1154958,5.0,72.0,B,U,South East,London,Platinum,32050.0,12.0
+1156179,9.0,70.0,D,F,South East,London,Gold,6000.0,8.0
+1162020,7.0,,F,F,Midlands,Wales & West,Tin,0.009999999999999998,2.0
+1164910,7.0,51.0,E,M,North,N West,Tin,0.009999999999999998,10.0
+1176846,9.0,31.0,F,F,,,Silver,1064.4499999999998,1.0
+1178520,10.0,58.0,F,F,Midlands,Wales & West,Silver,3000.01,8.0
+1179462,10.0,73.0,E,F,Midlands,Wales & West,Tin,0.009999999999999998,6.0
+1184199,7.0,38.0,F,F,South East,London,Silver,4500.0,4.0
+1186671,7.0,71.0,A,F,South East,London,Silver,2000.0,3.0
+1190369,22.0,50.0,C,M,South East,London,Silver,3000.0,6.0
+1191357,9.0,,,U,Midlands,Wales & West,Silver,2000.0,4.0
+1192051,6.0,51.0,C,F,Midlands,Midlands,Silver,3500.0,27.0
+1195654,10.0,33.0,D,F,Midlands,Wales & West,Tin,0.009999999999999998,8.0
+1196413,6.0,67.0,A,U,Midlands,Midlands,Silver,5000.0,4.0
+1201212,,78.0,B,M,South East,S & S East,Silver,3000.0,8.0
+1214039,8.0,64.0,A,F,South East,London,Gold,20000.0,4.0
+1214934,9.0,50.0,F,F,South East,London,Silver,5000.0,4.0
+1219553,8.0,76.0,E,U,North,N West,Gold,6000.0,15.0
+1220462,5.0,41.0,F,F,South East,London,Gold,6000.0,3.0
+1225006,12.0,50.0,D,M,Scottish,C Scotland,Tin,0.009999999999999998,7.0
+1227807,13.0,54.0,A,F,South West,S West,Gold,12078.349999999999,30.0
+1237713,13.0,45.0,B,F,South East,S & S East,Silver,3000.0,8.0
+1238604,,72.0,B,F,South East,London,Silver,50.01,13.0
+1245880,7.0,41.0,F,,North,N West,Tin,0.009999999999999998,9.0
+1246933,10.0,59.0,B,M,South East,S & S East,Silver,780.0,2.0
+1250647,9.0,68.0,C,,Midlands,Midlands,Silver,4000.0,5.0
+1260758,9.0,66.0,D,M,Scottish,C Scotland,Silver,2000.0,9.0
+1263749,5.0,52.0,B,M,North,Yorkshire,Tin,0.009999999999999998,11.0
+1265857,8.0,73.0,,M,Midlands,Ulster,Gold,6000.0,6.0
+1275305,6.0,45.0,F,U,North,N West,Silver,300.0,9.0
+1276417,9.0,48.0,D,F,South East,S & S East,Tin,0.009999999999999998,5.0
+1277200,6.0,60.0,B,F,South East,S & S East,Tin,0.009999999999999998,5.0
+1285750,,57.0,B,F,South East,London,Tin,0.009999999999999998,8.0
+1287850,11.0,56.0,C,F,Midlands,East,Gold,6105.32,7.0
+1288741,26.0,31.0,E,F,Midlands,Midlands,Tin,0.009999999999999998,4.0
+1289772,,,D,F,South West,S West,Tin,0.009999999999999998,4.0
+1303252,9.0,55.0,C,M,South East,London,Tin,0.009999999999999998,11.0
+1311360,8.0,61.0,C,M,Midlands,Midlands,Silver,3250.0,6.0
+1312375,,41.0,D,F,South East,London,Gold,10000.0,5.0
+1314483,9.0,68.0,A,M,South East,London,Silver,4250.0,4.0
+1317113,14.0,47.0,C,F,South East,London,Tin,0.009999999999999998,8.0
+1318845,3.0,70.0,C,F,Midlands,Wales & West,Silver,3000.0,11.0
+1322516,10.0,40.0,B,M,South East,London,Silver,1000.0,13.0
+1329022,10.0,57.0,F,M,Midlands,Midlands,Tin,0.009999999999999998,4.0
+1330489,11.0,54.0,B,F,Scottish,C Scotland,Silver,360.0,9.0
+1334131,2.0,,B,F,Midlands,Midlands,Silver,3178.9,5.0
+1338498,9.0,44.0,B,F,South East,London,Gold,6053.349999999999,5.0
+1339389,6.0,57.0,D,M,North,Yorkshire,Silver,0.019999999999999997,8.0
+1343181,5.0,,C,,Midlands,Midlands,Silver,50.02,8.0
+1347810,9.0,60.0,D,,Scottish,N Scot,Gold,8000.0,14.0
+1348957,13.0,45.0,F,F,Scottish,N Scot,Tin,0.009999999999999998,4.0
+1349643,9.0,40.0,E,F,South East,London,Tin,0.009999999999999998,6.0
+1352482,9.0,22.0,B,F,North,N West,Silver,1000.0,3.0
+1353292,10.0,73.0,A,M,South East,London,Silver,5000.0,27.0
+1364707,10.0,44.0,C,U,South East,S & S East,Tin,0.009999999999999998,5.0
+1366874,,65.0,B,M,South East,London,Silver,1526.9099999999999,5.0
+1372475,5.0,50.0,B,M,Midlands,Wales & West,Tin,0.009999999999999998,4.0
+1379240,8.0,76.0,F,F,South East,S & S East,Silver,1000.0,3.0
+1390333,,61.0,A,M,South East,London,Tin,0.009999999999999998,5.0
+1402684,7.0,52.0,E,F,South East,London,Tin,0.009999999999999998,9.0
+1403478,9.0,48.0,D,F,Midlands,Midlands,Gold,6000.0,2.0
+1404458,9.0,47.0,D,M,Midlands,Midlands,Tin,0.009999999999999998,4.0
+1407228,7.0,57.0,B,F,,,Silver,2000.0,1.0
+1408038,10.0,61.0,D,F,North,N West,Silver,3000.0,3.0
+1421123,8.0,55.0,E,M,South West,S West,Silver,4000.0,8.0
+1422944,10.0,52.0,F,U,Scottish,C Scotland,Tin,0.009999999999999998,5.0
+1425951,,68.0,F,F,Midlands,Wales & West,Tin,0.009999999999999998,9.0
+1438069,5.0,76.0,C,F,North,Yorkshire,Gold,6000.0,3.0
+1439030,11.0,47.0,A,M,Scottish,C Scotland,Silver,1200.0,11.0
+1455486,9.0,66.0,E,,Midlands,Wales & West,Gold,6000.0,2.0
+1467158,12.0,60.0,C,F,Midlands,Midlands,Gold,9604.34,4.0
+1468979,8.0,49.0,C,M,South East,S & S East,Tin,0.009999999999999998,20.0
+1469819,9.0,67.0,D,F,South East,London,Gold,10000.0,5.0
+1470698,4.0,53.0,C,M,South East,London,Silver,1070.0,9.0
+1472623,3.0,59.0,,F,Midlands,East,Gold,12000.0,4.0
+1487604,8.0,69.0,C,M,South East,London,Gold,14400.0,8.0
+1488600,7.0,27.0,F,F,South East,London,Tin,0.009999999999999998,4.0
+1492209,10.0,63.0,B,M,South East,London,Silver,3000.0,7.0
+1496115,18.0,41.0,D,F,North,N East,Tin,0.009999999999999998,5.0
+1504347,,36.0,F,U,Midlands,East,Silver,4035.5699999999997,7.0
+1509918,4.0,64.0,D,F,South East,London,Silver,420.0,9.0
+1514946,8.0,45.0,E,M,South East,London,Gold,6000.0,2.0
+1515527,10.0,46.0,D,F,South East,S & S East,Tin,0.009999999999999998,4.0
+1521950,2.0,50.0,B,,North,N East,Tin,0.009999999999999998,5.0
+1522744,6.0,75.0,E,F,Midlands,Midlands,Tin,0.009999999999999998,9.0
+1523775,11.0,62.0,B,M,North,Yorkshire,Gold,6000.0,10.0
+1524712,13.0,64.0,B,M,North,N West,Gold,12000.0,8.0
+1529536,,39.0,C,,South East,London,Silver,3850.3599999999997,8.0
+1533258,11.0,25.0,C,F,Midlands,Midlands,Silver,3000.0,3.0
+1535226,5.0,46.0,C,F,Midlands,Wales & West,Platinum,24878.35,9.0
+1539132,10.0,39.0,E,U,North,N West,Tin,0.009999999999999998,5.0
+1540068,6.0,56.0,F,F,South East,London,Gold,6000.0,1.0
+1543954,6.0,56.0,E,U,North,N East,Gold,6000.0,2.0
+1544969,6.0,62.0,C,M,Scottish,N Scot,Gold,18800.0,4.0
+1550918,5.0,77.0,F,M,South East,S & S East,Gold,9600.0,16.0
+1562843,6.0,48.0,C,F,Midlands,Midlands,Tin,0.009999999999999998,5.0
+1587250,4.0,29.0,C,F,North,N West,Silver,100.0,7.0
+1589334,9.0,63.0,C,M,Midlands,Wales & West,Tin,0.009999999999999998,5.0
+1593706,5.0,46.0,D,,Midlands,Wales & West,Silver,480.0,5.0
+1598333,9.0,58.0,D,U,Midlands,Midlands,Tin,0.009999999999999998,5.0
+1611844,12.0,68.0,C,F,North,N West,Silver,2000.0,31.0
+1613685,10.0,,E,F,South East,S & S East,Gold,6053.349999999999,6.0
+1617974,7.0,36.0,B,F,South East,London,Silver,3000.01,8.0
+1620797,17.0,43.0,E,F,Midlands,Wales & West,Silver,3026.6699999999996,6.0
+1622692,6.0,57.0,D,M,South East,London,Tin,0.009999999999999998,4.0
+1623494,8.0,47.0,C,,South East,London,Tin,0.009999999999999998,8.0
+1625675,6.0,45.0,D,F,South East,S & S East,Tin,0.009999999999999998,10.0
+1642332,10.0,64.0,B,,Midlands,Midlands,Silver,5000.0,8.0
+1645110,12.0,37.0,B,F,North,Yorkshire,Tin,0.009999999999999998,5.0
+1652990,5.0,57.0,C,,North,Yorkshire,Silver,4884.25,11.0
+1657844,6.0,41.0,D,,North,Yorkshire,Tin,0.009999999999999998,5.0
+1665502,10.0,44.0,C,M,Midlands,Wales & West,Silver,500.0,9.0
+1670514,9.0,51.0,B,F,South East,London,Gold,7053.339999999999,10.0
+1673556,7.0,62.0,F,F,South West,S West,Gold,6000.0,2.0
+1681265,18.0,54.0,F,F,Midlands,Midlands,Silver,970.92,9.0
+1691082,7.0,57.0,D,M,South East,London,Silver,1500.0,5.0
+1692658,7.0,63.0,B,M,Midlands,East,Gold,7500.0,5.0
+1700464,8.0,,C,M,North,Yorkshire,Silver,600.0,8.0
+1711644,3.0,51.0,D,M,North,N West,Tin,0.009999999999999998,5.0
+1719211,,44.0,E,F,North,N West,Silver,500.0,10.0
+1731165,11.0,74.0,D,M,Midlands,Midlands,Gold,10000.01,8.0
+1739360,8.0,56.0,F,M,South West,S West,Silver,4000.0,5.0
+1741195,4.0,33.0,F,F,Midlands,Midlands,Tin,0.009999999999999998,6.0
+1742434,8.0,50.0,B,F,Midlands,Midlands,Silver,4800.0,5.0
+1745654,,59.0,C,F,North,N West,Tin,0.009999999999999998,5.0
+1750860,11.0,67.0,B,,North,N West,Silver,2400.0,9.0
+1762605,7.0,72.0,F,M,North,N West,Gold,6000.0,5.0
+1763474,5.0,67.0,B,,North,N West,Gold,6000.0,2.0
+1764616,8.0,28.0,F,M,Scottish,C Scotland,Silver,68.22,2.0
+1765760,9.0,65.0,A,F,North,N West,Gold,6053.349999999999,6.0
+1771388,10.0,39.0,C,F,North,N East,Silver,600.0,1.0
+1772406,11.0,59.0,C,F,South West,S West,Gold,10213.66,5.0
+1773372,13.0,61.0,D,,North,N West,Silver,3000.0,8.0
+1779664,11.0,43.0,,F,Midlands,Wales & West,Tin,0.009999999999999998,9.0
+1780778,10.0,50.0,D,M,North,Yorkshire,Tin,0.009999999999999998,5.0
+1781979,8.0,67.0,C,U,South East,S & S East,Gold,5027.0,6.0
+1786164,9.0,55.0,A,M,South East,London,Tin,0.009999999999999998,4.0
+1794663,12.0,48.0,F,F,South East,London,Gold,6053.349999999999,13.0
+1795708,8.0,32.0,F,M,South East,London,Tin,0.009999999999999998,7.0
+1798863,13.0,38.0,C,F,North,Yorkshire,Tin,0.009999999999999998,8.0
+1799983,9.0,39.0,F,F,Midlands,Midlands,Silver,2700.0,4.0
+1802194,11.0,44.0,E,M,Scottish,N Scot,Gold,6000.0,3.0
+1803158,5.0,71.0,D,,South East,S & S East,Silver,2000.0,9.0
+1804170,11.0,57.0,D,F,Midlands,Midlands,Gold,9000.0,6.0
+1805371,5.0,34.0,F,F,Midlands,East,Gold,6000.0,5.0
+1815989,11.0,56.0,D,F,North,N West,Tin,0.009999999999999998,6.0
+1820036,6.0,69.0,C,M,Midlands,Midlands,Gold,12105.32,12.0
+1820974,11.0,53.0,A,M,South East,London,Silver,600.0,7.0
+1823981,10.0,33.0,D,F,North,N East,Tin,0.009999999999999998,9.0
+1824880,6.0,67.0,C,M,North,Yorkshire,Silver,1200.0,4.0
+1833588,8.0,74.0,F,F,Scottish,Border,Silver,2000.0,5.0
+1856197,4.0,73.0,F,F,North,N West,Gold,6500.0,20.0
+1857045,16.0,37.0,F,F,South East,London,Tin,0.009999999999999998,8.0
+1860585,7.0,60.0,E,F,South West,S West,Silver,1324.1999999999998,10.0
+1861670,,61.0,C,F,South East,London,Gold,6000.0,2.0
+1868780,9.0,74.0,C,F,Midlands,Midlands,Gold,11605.32,12.0
+1872664,4.0,49.0,E,F,Midlands,Midlands,Tin,0.009999999999999998,
+1873539,8.0,49.0,D,F,South East,London,Tin,0.009999999999999998,8.0
+1878794,5.0,58.0,E,F,South East,London,Platinum,21000.0,9.0
+1882015,,36.0,,M,Midlands,Ulster,Silver,4300.0,1.0
+1891499,8.0,43.0,B,F,Midlands,Wales & West,Silver,1200.0,4.0
+1893505,5.0,76.0,C,U,South East,London,Gold,6053.349999999999,7.0
+1895451,8.0,78.0,A,F,Midlands,Midlands,Silver,3000.0,2.0
+1896628,4.0,76.0,D,F,Midlands,Wales & West,Gold,6000.0,6.0
+1897829,15.0,48.0,E,F,Midlands,Midlands,Silver,500.0,9.0
+1898779,7.0,68.0,E,M,North,Yorkshire,Tin,0.009999999999999998,12.0
+1901788,7.0,61.0,A,M,South East,London,Platinum,28780.41,0.0
+1902814,10.0,64.0,B,M,Scottish,C Scotland,Gold,5100.0,11.0
+1907808,7.0,56.0,C,,Midlands,Wales & West,Silver,3000.0,11.0
+1916432,8.0,39.0,E,,South East,London,Silver,5000.0,1.0
+1917439,10.0,62.0,D,F,North,Yorkshire,Gold,6053.349999999999,5.0
+1919512,11.0,35.0,E,F,Midlands,Wales & West,Silver,600.0,8.0
+1936239,8.0,35.0,C,F,South East,S & S East,Silver,1000.0,6.0
+1938339,8.0,55.0,E,M,South East,S & S East,Tin,0.009999999999999998,8.0
+1939297,7.0,47.0,D,,North,N East,Silver,1200.0,9.0
+1941658,6.0,63.0,B,M,South East,S & S East,Platinum,30131.68,6.0
+1943634,7.0,33.0,C,F,North,Yorkshire,Tin,0.009999999999999998,9.0
+1946366,7.0,50.0,F,M,Midlands,Midlands,Silver,4198.0,1.0
+1952552,12.0,57.0,F,M,Scottish,N Scot,Silver,1000.0,4.0
+1953516,8.0,42.0,C,U,North,N West,Tin,0.009999999999999998,5.0
+1954504,11.0,45.0,C,F,Midlands,Midlands,Silver,720.0,4.0
+1976389,6.0,49.0,F,F,Midlands,East,Silver,920.0,4.0
+1978349,9.0,70.0,C,M,Scottish,Border,Silver,3000.0,8.0
+1979671,6.0,39.0,B,F,North,N East,Tin,0.009999999999999998,7.0
+1983636,9.0,37.0,E,F,Midlands,East,Silver,420.0,1.0
+1986597,8.0,62.0,A,F,Scottish,C Scotland,Silver,3750.0,2.0
+1988824,9.0,67.0,B,M,,,Gold,6000.0,1.0
+1991744,9.0,59.0,B,F,South East,S & S East,Gold,7400.0,28.0
+1996495,15.0,52.0,D,M,South East,London,Silver,3000.0,5.0
+2009935,9.0,50.0,D,M,South East,S & S East,Silver,1200.0,9.0
+2015668,7.0,35.0,C,F,South East,London,Silver,500.0,1.0
+2022370,12.0,39.0,F,F,Midlands,Wales & West,Tin,0.009999999999999998,5.0
+2024128,12.0,68.0,E,F,,,Gold,18678.76,3.0
+2034743,19.0,38.0,,F,Midlands,Wales & West,Tin,0.009999999999999998,9.0
+2035618,11.0,32.0,A,F,Midlands,Midlands,Tin,0.009999999999999998,5.0
+2038765,7.0,30.0,F,F,North,Yorkshire,Tin,0.009999999999999998,4.0
+2044978,10.0,59.0,C,F,North,N West,Tin,0.009999999999999998,10.0
+2046008,8.0,53.0,E,U,South East,London,Gold,6000.0,1.0
+2053047,14.0,53.0,C,M,North,N West,Silver,480.0,5.0
+2056623,12.0,53.0,F,F,Midlands,East,Tin,0.009999999999999998,5.0
+2063115,13.0,53.0,F,F,Midlands,Midlands,Tin,0.009999999999999998,8.0
+2069148,7.0,48.0,F,M,South West,S West,Tin,0.009999999999999998,7.0
+2080303,11.0,61.0,C,F,North,N West,Tin,0.009999999999999998,5.0
+2088991,,73.0,U,F,South East,London,Silver,2500.0,9.0
+2094428,14.0,76.0,F,F,Midlands,Midlands,Silver,500.0,9.0
+2095491,11.0,44.0,C,F,North,Yorkshire,Tin,0.009999999999999998,5.0
+2107996,9.0,39.0,A,F,South East,London,Platinum,30649.41,1.0
+2109565,6.0,35.0,F,F,South East,S & S East,Tin,0.009999999999999998,5.0
+2115328,11.0,63.0,B,F,North,Yorkshire,Gold,19000.0,12.0
+2124033,11.0,62.0,F,F,Midlands,East,Gold,12000.0,2.0
+2125013,9.0,50.0,E,F,Scottish,N Scot,Tin,0.009999999999999998,8.0
+2138107,12.0,34.0,E,F,North,N West,Tin,0.009999999999999998,4.0
+2139995,8.0,69.0,B,,Scottish,N Scot,Tin,0.009999999999999998,7.0
+2161567,9.0,,A,F,South East,London,Tin,0.009999999999999998,7.0
+2176327,22.0,30.0,F,F,South East,London,Silver,1750.0,4.0
+2180774,10.0,44.0,C,F,North,N East,Tin,0.009999999999999998,8.0
+2196948,9.0,79.0,C,,South East,London,Silver,4000.0,2.0
+2200279,7.0,40.0,C,M,Midlands,Wales & West,Tin,0.009999999999999998,4.0
+2201399,7.0,43.0,B,,Midlands,Wales & West,Tin,0.009999999999999998,
+2206358,11.0,25.0,F,F,South East,London,Silver,2400.0,1.0
+2219816,5.0,57.0,D,M,Midlands,Midlands,Silver,3000.0,4.0
+2222930,7.0,23.0,A,F,North,N West,Silver,1000.0,5.0
+2227312,5.0,58.0,A,,North,N East,Tin,0.009999999999999998,
+2229757,12.0,,B,F,South East,London,Tin,0.009999999999999998,5.0
+2233118,8.0,57.0,A,,South East,London,Platinum,25000.0,1.0
+2235056,10.0,35.0,C,M,South East,London,Tin,0.009999999999999998,8.0
+2238446,8.0,42.0,F,F,,,Tin,0.009999999999999998,5.0
+2242419,12.0,33.0,E,F,South East,London,Tin,0.009999999999999998,8.0
+2245329,9.0,46.0,F,F,South East,London,Silver,5000.0,2.0
+2250233,12.0,,C,F,North,N West,Tin,0.009999999999999998,4.0
+2252104,12.0,43.0,C,F,South East,London,Tin,0.009999999999999998,9.0
+2262231,17.0,33.0,C,U,South East,S & S East,Silver,5000.0,1.0
+2263890,6.0,71.0,F,,Scottish,Border,Gold,12000.0,2.0
+2272474,14.0,35.0,E,F,Scottish,C Scotland,Tin,0.009999999999999998,4.0
+2275317,7.0,54.0,C,M,Midlands,Wales & West,Silver,4500.0,11.0
+2281147,13.0,66.0,D,F,Scottish,N Scot,Silver,2000.0,5.0
+2284065,16.0,37.0,F,F,South East,S & S East,Tin,0.009999999999999998,8.0
+2303191,3.0,58.0,A,M,North,N West,Silver,3000.0,2.0
+2303523,10.0,49.0,A,M,South East,London,Tin,0.009999999999999998,8.0
+2327007,8.0,45.0,E,,Midlands,Midlands,Tin,0.009999999999999998,10.0
+2330202,8.0,36.0,D,F,Midlands,Wales & West,Tin,0.009999999999999998,8.0
+2331160,,37.0,D,F,South East,S & S East,Tin,0.009999999999999998,5.0
+2332280,4.0,71.0,F,,North,N West,Gold,10500.0,15.0
+2334992,10.0,54.0,B,F,South East,London,Silver,2000.0,5.0
+2335131,8.0,55.0,F,M,Midlands,East,Tin,0.009999999999999998,9.0
+2337916,7.0,72.0,C,F,South East,S & S East,Platinum,26053.35,8.0
+2344521,7.0,40.0,F,M,North,N West,Tin,0.009999999999999998,4.0
+2345242,3.0,55.0,C,F,Midlands,East,Tin,0.009999999999999998,5.0
+2350696,5.0,57.0,C,U,North,Yorkshire,Silver,5000.0,4.0
+2353571,10.0,63.0,B,F,North,N West,Tin,0.009999999999999998,8.0
+2357844,10.0,53.0,D,,Scottish,N Scot,Silver,1500.0,5.0
+2360020,14.0,70.0,F,M,Midlands,East,Platinum,20294.5,3.0
+2365723,14.0,56.0,F,U,South East,London,Gold,6000.0,2.0
+2372991,12.0,49.0,,F,Midlands,Ulster,Gold,14000.0,3.0
+2373998,12.0,70.0,C,M,Midlands,Wales & West,Platinum,29374.72,24.0
+2384248,3.0,77.0,D,F,North,N West,Gold,15053.82,4.0
+2387123,6.0,63.0,A,M,Midlands,Midlands,Gold,18000.0,13.0
+2388995,,54.0,A,F,South East,London,Silver,4884.25,8.0
+2390949,6.0,68.0,A,F,South East,London,Gold,19411.22,5.0
+2393670,6.0,,D,F,North,Yorkshire,Silver,1000.0,3.0
+2395363,5.0,48.0,D,,North,N West,Tin,0.009999999999999998,5.0
+2397285,5.0,68.0,C,F,North,N East,Silver,1500.0,9.0
+2400227,7.0,49.0,F,M,Midlands,East,Tin,0.009999999999999998,5.0
+2405253,7.0,73.0,C,M,North,N East,Silver,2000.0,4.0
+2420252,10.0,59.0,C,F,South East,London,Gold,6000.0,2.0
+2423170,11.0,67.0,F,F,Midlands,Midlands,Gold,6000.0,2.0
+2428547,10.0,56.0,B,F,Midlands,Wales & West,Gold,9000.0,1.0
+2428563,7.0,56.0,C,F,Midlands,Wales & West,Platinum,20383.699999999997,3.0
+2433648,,31.0,E,,South East,London,Tin,0.009999999999999998,4.0
+2437015,10.0,,C,F,South West,S West,Tin,0.009999999999999998,9.0
+2443090,9.0,69.0,A,F,Scottish,C Scotland,Silver,5000.0,18.0
+2444100,8.0,75.0,C,M,South East,London,Gold,8000.0,2.0
+2445271,13.0,42.0,C,M,South East,S & S East,Tin,0.009999999999999998,5.0
+2449706,13.0,42.0,E,,Midlands,Midlands,Silver,0.019999999999999997,8.0
+2452650,6.0,50.0,F,M,Midlands,Midlands,Silver,1000.0,6.0
+2469219,7.0,51.0,D,M,South East,S & S East,Tin,0.009999999999999998,5.0
+2488981,12.0,25.0,A,F,North,N East,Gold,6000.0,2.0
+2502917,10.0,50.0,F,F,South West,S West,Silver,3000.0,8.0
+2510294,8.0,36.0,,F,,,Tin,0.009999999999999998,9.0
+2513684,9.0,64.0,B,F,Midlands,East,Silver,300.0,7.0
+2565641,7.0,55.0,E,U,Midlands,Wales & West,Silver,3000.0,8.0
+2681226,15.0,61.0,B,F,South East,London,Gold,7500.0,4.0
+2744937,11.0,67.0,F,M,North,N West,Gold,9000.0,2.0
+2750171,10.0,37.0,B,M,South East,S & S East,Tin,0.009999999999999998,7.0
+2752220,9.0,55.0,D,F,Scottish,C Scotland,Silver,2000.0,4.0
+2759365,10.0,67.0,B,F,South East,London,Silver,3000.0,8.0
+2760185,8.0,,C,,South East,S & S East,Silver,5000.0,4.0
+2765551,12.0,43.0,E,F,Midlands,Midlands,Tin,0.009999999999999998,5.0
+2786591,5.0,45.0,E,F,South East,London,Gold,19465.699999999997,3.0
+2789434,9.0,,C,F,South East,S & S East,Silver,5000.0,2.0
+2789647,12.0,75.0,E,F,South East,London,Platinum,24106.699999999997,23.0
+2791471,5.0,52.0,D,M,Midlands,Midlands,Silver,100.0,1.0
+2792567,10.0,56.0,D,U,North,N West,Gold,6000.0,1.0
+2804328,,52.0,B,F,South East,London,Gold,7100.0,14.0
+2805332,7.0,61.0,D,F,South East,S & S East,Tin,0.009999999999999998,6.0
+2838230,7.0,49.0,F,,North,N West,Tin,0.009999999999999998,5.0
+2840502,8.0,63.0,,F,Midlands,Ulster,Gold,7000.0,6.0
+2844192,7.0,69.0,E,,Midlands,Midlands,Silver,2000.0,11.0
+2850850,,51.0,C,F,South East,London,Silver,1500.0,9.0
+2859114,4.0,42.0,F,F,North,N East,Tin,0.009999999999999998,5.0
+2867451,15.0,53.0,E,F,Midlands,East,Gold,6000.0,3.0
+2870010,9.0,,B,M,South East,S & S East,Gold,18000.0,8.0
+2870738,,65.0,A,U,South East,London,Silver,3000.0,22.0
+2879999,7.0,56.0,B,F,North,N West,Silver,0.019999999999999997,5.0
+2882337,2.0,40.0,F,M,South East,S & S East,Tin,0.009999999999999998,5.0
+2882965,5.0,35.0,B,F,South East,S & S East,Tin,0.009999999999999998,5.0
+2903679,7.0,53.0,A,M,South East,London,Silver,2460.01,8.0
+2904608,6.0,35.0,F,F,South East,London,Tin,0.009999999999999998,6.0
+2912872,3.0,38.0,D,F,South East,London,Gold,5192.69,5.0
+2914093,12.0,64.0,D,,Midlands,Midlands,Silver,3750.0,10.0
+2915928,16.0,28.0,F,U,Midlands,Midlands,Tin,0.009999999999999998,4.0
+2920077,8.0,29.0,C,F,South East,London,Silver,1500.0,4.0
+2920816,7.0,71.0,B,,South East,S & S East,Silver,1000.0,4.0
+2926687,13.0,43.0,E,M,North,Yorkshire,Silver,50.0,11.0
+2931974,6.0,70.0,E,F,South East,S & S East,Silver,1000.0,9.0
+2932385,12.0,65.0,C,F,South West,S West,Silver,2215.4,4.0
+2935112,13.0,57.0,B,F,South East,London,Tin,0.009999999999999998,9.0
+2938871,,54.0,F,,Midlands,Midlands,Tin,0.009999999999999998,4.0
+2949733,9.0,67.0,D,,South East,London,Silver,1000.0,9.0
+2951029,6.0,73.0,,F,Midlands,Wales & West,Silver,600.0,7.0
+2956632,3.0,73.0,E,U,Midlands,Midlands,Gold,6000.0,2.0
+2958864,9.0,41.0,E,F,North,Yorkshire,Gold,12000.0,6.0
+2960850,11.0,64.0,A,F,North,N West,Gold,6000.0,4.0
+2963388,7.0,43.0,E,F,South East,S & S East,Tin,0.009999999999999998,5.0
+2966697,6.0,32.0,D,F,South East,London,Silver,3050.0,10.0
+2972719,2.0,58.0,B,F,Midlands,Midlands,Gold,6550.0,12.0
+2981033,6.0,70.0,B,F,North,N West,Gold,6000.0,8.0
+2981823,16.0,60.0,D,M,South East,S & S East,Silver,3000.0,2.0
+2985322,11.0,49.0,F,M,Midlands,East,Tin,0.009999999999999998,10.0
+2988283,9.0,72.0,,M,South East,S & S East,Tin,0.009999999999999998,
+2989123,5.0,62.0,D,F,Scottish,C Scotland,Gold,6000.0,5.0
+2991403,6.0,49.0,E,F,North,N West,Silver,1608.0,10.0
+2996030,7.0,59.0,F,F,Midlands,Midlands,Silver,5000.0,4.0
+2997789,8.0,53.0,C,M,Midlands,Midlands,Silver,1000.0,5.0
+2997940,9.0,32.0,B,M,South East,S & S East,Tin,0.009999999999999998,5.0
+2998564,8.0,37.0,A,F,South East,London,Tin,0.009999999999999998,5.0
+3000567,7.0,60.0,B,U,Midlands,Midlands,Gold,12053.34,3.0
+3003442,20.0,62.0,F,F,North,Yorkshire,Silver,1600.0,4.0
+3010457,6.0,32.0,F,F,North,Yorkshire,Silver,0.019999999999999997,5.0
+3012158,11.0,79.0,A,F,Midlands,Midlands,Silver,5000.0,16.0
+3013030,12.0,37.0,E,F,South East,London,Gold,6000.01,5.0
+3022374,8.0,62.0,E,F,South East,London,Gold,13500.0,5.0
+3026248,9.0,,C,M,South East,London,Silver,4000.0,1.0
+3027457,8.0,68.0,F,F,Midlands,Wales & West,Silver,2200.0,5.0
+3028984,9.0,51.0,F,F,Midlands,Midlands,Gold,6001.74,4.0
+3029913,13.0,39.0,F,F,Scottish,C Scotland,Silver,1500.0,2.0
+3030695,6.0,55.0,A,F,Midlands,Midlands,Gold,7000.0,29.0
+3035840,3.0,57.0,D,F,South East,London,Silver,2500.0,6.0
+3037894,12.0,50.0,A,F,South East,S & S East,Silver,600.0,9.0
+3041514,9.0,36.0,E,M,Midlands,Wales & West,Tin,0.009999999999999998,4.0
+3045765,,31.0,D,F,South East,S & S East,Tin,0.009999999999999998,5.0
+3051145,7.0,51.0,A,M,South East,London,Gold,6000.0,2.0
+3051153,7.0,67.0,B,M,South East,London,Gold,12000.0,8.0
+3053628,13.0,68.0,C,M,South East,London,Platinum,20364.36,3.0
+3054357,12.0,53.0,C,,North,N East,Tin,0.009999999999999998,8.0
+3066959,4.0,76.0,C,,South East,S & S East,Silver,2000.0,12.0
+3077632,,,F,F,Midlands,Wales & West,Silver,600.0,
+3083780,16.0,47.0,D,F,South East,S & S East,Silver,2790.0,8.0
+3089746,6.0,52.0,C,,North,N West,Silver,500.0,11.0
+3095320,6.0,44.0,B,F,Midlands,Wales & West,Tin,0.009999999999999998,5.0
+3104575,9.0,,A,M,South West,S West,Gold,6000.0,3.0
+3108244,7.0,29.0,F,M,South East,London,Silver,360.0,8.0
+3111806,9.0,55.0,E,,Midlands,Midlands,Gold,20000.0,4.0
+3113930,6.0,61.0,C,M,Midlands,Midlands,Silver,900.0,4.0
+3113957,7.0,69.0,F,F,North,Yorkshire,Tin,0.009999999999999998,9.0
+3116905,8.0,70.0,A,F,South East,London,Silver,3000.01,15.0
+3120082,5.0,43.0,F,F,North,N West,Tin,0.009999999999999998,5.0
+3124495,6.0,77.0,B,F,Midlands,Midlands,Gold,6000.0,3.0
+3124762,25.0,36.0,E,F,North,N West,Silver,2000.0,5.0
+3125157,8.0,38.0,B,F,South East,London,Gold,12035.57,6.0
+3460630,10.0,66.0,B,U,South East,London,Gold,6053.349999999999,7.0
+3461939,15.0,58.0,B,M,North,Yorkshire,Silver,100.0,10.0
+3463133,13.0,46.0,B,,Midlands,Midlands,Silver,420.0,10.0
+3464075,7.0,46.0,C,F,North,Yorkshire,Tin,0.009999999999999998,18.0
+3464423,11.0,63.0,B,M,South East,London,Silver,4000.0,1.0
+3464601,4.0,75.0,B,F,North,N West,Tin,0.009999999999999998,8.0
+3464717,7.0,54.0,C,F,South East,S & S East,Tin,0.009999999999999998,7.0
+3464849,,64.0,C,F,Scottish,C Scotland,Silver,1000.0,5.0
+3465373,15.0,44.0,E,F,South East,London,Tin,0.009999999999999998,4.0
+3465624,12.0,65.0,C,M,North,N West,Gold,12100.0,10.0
+3466531,,61.0,A,M,South East,London,Silver,570.0,9.0
+3467155,6.0,46.0,D,F,North,Yorkshire,Silver,3000.0,1.0
+3467236,8.0,67.0,C,F,South East,London,Gold,6000.0,7.0
+3467600,,36.0,C,M,Midlands,Wales & West,Tin,0.009999999999999998,5.0
+3467759,7.0,45.0,F,F,South East,S & S East,Gold,6000.0,9.0
+3467856,5.0,36.0,D,M,South East,London,Silver,50.01,8.0
+3467929,9.0,27.0,A,F,South East,London,Gold,10000.0,3.0
+3468534,11.0,59.0,D,,South East,London,Gold,6000.0,2.0
+3469115,8.0,46.0,E,M,Midlands,Midlands,Gold,6000.0,2.0
+3469689,7.0,37.0,C,F,South East,London,Tin,0.009999999999999998,10.0
+3469778,6.0,78.0,E,F,North,Yorkshire,Gold,6000.0,21.0
+3470091,4.0,79.0,C,M,South East,S & S East,Silver,2007.9499999999998,1.0
+3470806,7.0,55.0,B,F,Scottish,C Scotland,Silver,2000.0,5.0
+3470938,6.0,65.0,F,,South East,London,Gold,6000.0,2.0
+3472132,10.0,55.0,C,F,Scottish,C Scotland,Silver,1020.0,9.0
+3473589,8.0,52.0,E,F,Midlands,East,Silver,3000.0,5.0
+3473651,7.0,,D,,South East,London,Silver,1000.0,5.0
+3474275,4.0,43.0,C,,South East,London,Tin,0.009999999999999998,
+3474887,8.0,75.0,D,F,Midlands,Midlands,Gold,15000.0,4.0
+3474992,6.0,44.0,B,F,South East,London,Silver,2000.0,1.0
+3476448,10.0,36.0,D,F,North,Yorkshire,Silver,1100.0,4.0
+3476588,6.0,64.0,A,M,South East,London,Silver,3000.0,14.0
+3477177,7.0,47.0,F,M,North,N West,Tin,0.009999999999999998,8.0
+3477231,3.0,58.0,D,F,Midlands,Midlands,Gold,19171.949999999997,13.0
+3477630,9.0,48.0,E,M,Midlands,East,Gold,10500.0,5.0
+3477681,6.0,65.0,D,F,Midlands,Midlands,Silver,3213.27,17.0
+3478122,8.0,57.0,C,,North,N West,Tin,0.009999999999999998,8.0
+3478416,,74.0,B,F,Midlands,Wales & West,Silver,3000.0,3.0
+3478521,6.0,44.0,C,F,South East,London,Tin,0.009999999999999998,5.0
+3478580,5.0,49.0,,F,Midlands,Wales & West,Gold,16000.0,4.0
+3478645,5.0,44.0,E,F,Midlands,East,Silver,1005.0,8.0
+3478866,12.0,38.0,A,F,South East,London,Gold,15500.0,5.0
+3479013,8.0,46.0,D,F,North,N West,Tin,0.009999999999999998,8.0
+3479102,10.0,28.0,E,F,South East,London,Tin,0.009999999999999998,5.0
+3479323,7.0,63.0,E,M,North,N West,Gold,10000.0,
+3479463,14.0,,D,M,North,N West,Platinum,20685.629999999997,3.0
+3479870,6.0,73.0,D,F,South East,London,Gold,9053.349999999999,7.0
+3480801,2.0,36.0,F,,South East,S & S East,Tin,0.009999999999999998,8.0
+3481301,5.0,74.0,B,F,South East,S & S East,Silver,3000.0,2.0
+3481913,6.0,48.0,E,M,South East,S & S East,Gold,6053.339999999999,4.0
+3482677,9.0,62.0,C,,Midlands,Midlands,Gold,6000.0,11.0
+3483258,12.0,,A,,Midlands,Midlands,Tin,0.009999999999999998,5.0
+3484858,9.0,44.0,B,,Midlands,Wales & West,Gold,12000.0,20.0
+3484920,11.0,58.0,C,F,Midlands,Midlands,Platinum,20406.199999999997,3.0
+3485013,13.0,71.0,D,F,South East,S & S East,Tin,0.009999999999999998,5.0
+3485765,7.0,65.0,D,U,Midlands,Midlands,Gold,5800.0,2.0
+3486265,10.0,76.0,B,F,North,Yorkshire,Gold,11800.0,8.0
+3486346,10.0,58.0,E,F,Midlands,Midlands,Gold,6000.0,2.0
+3486400,8.0,69.0,F,M,South East,S & S East,Silver,1420.0,24.0
+3486583,5.0,,B,M,South East,London,Silver,4000.0,1.0
+3486699,8.0,72.0,F,M,Midlands,Wales & West,Gold,7000.0,4.0
+3486788,12.0,33.0,F,F,North,N West,Silver,500.0,9.0
+3486966,6.0,29.0,C,M,South East,London,Gold,10000.0,1.0
+3487164,10.0,39.0,B,F,Scottish,C Scotland,Gold,10000.0,3.0
+3487237,8.0,59.0,A,,Midlands,Wales & West,Gold,6860.0,9.0
+3487415,7.0,45.0,E,M,South East,S & S East,Tin,0.009999999999999998,5.0
+3488640,9.0,68.0,E,F,Midlands,East,Gold,12000.0,2.0
+3488705,16.0,49.0,C,F,South East,London,Silver,2000.0,2.0
+3489051,7.0,74.0,B,F,North,N East,Tin,0.009999999999999998,8.0
+3491684,14.0,45.0,C,M,Midlands,Midlands,Gold,7000.0,2.0
+3491781,12.0,73.0,F,U,Scottish,C Scotland,Silver,3000.0,3.0
+3492184,10.0,54.0,B,M,Midlands,East,Platinum,50050.0,10.0
+3493261,2.0,63.0,D,F,South East,London,Silver,5000.0,1.0
+3493458,18.0,62.0,C,M,North,Yorkshire,Platinum,23000.0,9.0
+3494349,9.0,32.0,C,F,Midlands,Midlands,Gold,10000.0,1.0
+3495272,9.0,62.0,F,F,,,Gold,6000.0,2.0
+3496511,11.0,58.0,,M,South East,London,Tin,0.009999999999999998,8.0
+3497143,6.0,67.0,D,,Scottish,C Scotland,Tin,0.009999999999999998,5.0
+3497674,6.0,58.0,E,M,Midlands,Midlands,Platinum,20610.65,3.0
+3498492,5.0,58.0,B,M,South West,S West,Silver,3000.0,8.0
+3499804,13.0,48.0,F,F,South East,S & S East,Tin,0.009999999999999998,8.0
+3500438,10.0,57.0,C,F,South East,London,Silver,3053.35,12.0
+3500691,17.0,57.0,D,M,South East,London,Gold,12105.32,8.0
+3500977,4.0,65.0,C,F,Midlands,Wales & West,Gold,6000.0,2.0
+3502015,11.0,,A,F,North,N East,Silver,4000.0,8.0
+3502902,8.0,75.0,C,M,South East,S & S East,Gold,6000.0,2.0
+3504220,12.0,34.0,C,U,South East,London,Tin,0.009999999999999998,8.0
+3504891,6.0,74.0,B,M,South East,S & S East,Silver,3000.0,12.0
+3505073,6.0,76.0,A,F,South East,London,Tin,0.009999999999999998,8.0
+3505294,6.0,58.0,B,F,South East,London,Silver,3000.0,2.0
+3505413,5.0,36.0,F,F,South East,London,Tin,0.009999999999999998,5.0
+3505642,10.0,37.0,F,F,Midlands,Midlands,Tin,0.009999999999999998,5.0
+3505871,13.0,35.0,D,F,Midlands,East,Tin,0.009999999999999998,8.0
+3506126,12.0,,D,M,Midlands,Wales & West,Silver,3000.0,9.0
+3507300,9.0,43.0,D,F,South East,London,Silver,50.01,8.0
+3507440,10.0,44.0,F,M,Midlands,Midlands,Tin,0.009999999999999998,8.0
+3508420,4.0,38.0,D,F,North,N West,Tin,0.009999999999999998,8.0
+3508471,8.0,57.0,C,U,Midlands,Wales & West,Silver,3000.0,8.0
+3508765,13.0,62.0,E,F,South East,London,Gold,18426.67,8.0
+3509648,9.0,55.0,F,F,South West,S West,Platinum,24300.0,9.0
+3509915,10.0,46.0,C,M,South East,London,Silver,3120.0,9.0
+3510646,7.0,66.0,C,M,Midlands,Wales & West,Silver,1200.0,8.0
+3510808,8.0,56.0,D,F,South East,S & S East,Tin,0.009999999999999998,5.0
+3511073,8.0,55.0,D,M,South West,S West,Silver,23.84,18.0
+3513653,8.0,53.0,D,M,South East,London,Tin,0.009999999999999998,4.0
+3515192,9.0,,A,,South East,London,Silver,3000.0,9.0
+3516601,14.0,58.0,E,F,North,N East,Silver,100.0,18.0
+3516822,8.0,,,M,Midlands,Ulster,Tin,0.009999999999999998,4.0
+3517225,8.0,56.0,E,F,South East,S & S East,Tin,0.009999999999999998,8.0
+3517357,11.0,67.0,E,F,Scottish,Border,Gold,12620.93,11.0
+3517462,8.0,51.0,C,F,South West,S West,Tin,0.009999999999999998,5.0
+3518108,10.0,55.0,C,,Midlands,East,Tin,0.009999999999999998,5.0
+3518876,7.0,65.0,B,M,South East,S & S East,Silver,3000.0,8.0
+3519406,13.0,69.0,B,M,North,N West,Silver,5000.0,5.0
+3520498,8.0,57.0,A,M,Midlands,Midlands,Gold,17496.51,16.0
+3521850,11.0,36.0,C,F,South West,S West,Tin,0.009999999999999998,7.0
+3522318,7.0,51.0,A,,North,Yorkshire,Gold,6000.0,3.0
+3522512,5.0,58.0,D,F,North,N West,Silver,1000.0,5.0
+3522709,7.0,65.0,D,F,South East,London,Gold,12000.0,2.0
+3524000,6.0,59.0,D,U,South East,London,Silver,5000.0,6.0
+3526224,8.0,51.0,E,M,North,N West,Tin,0.009999999999999998,4.0
+3526860,7.0,62.0,C,M,Midlands,Midlands,Silver,4884.25,11.0
+3526917,,49.0,F,M,Midlands,Midlands,Tin,0.009999999999999998,5.0
+3527271,6.0,70.0,E,M,South East,S & S East,Platinum,32000.0,4.0
+3527344,6.0,41.0,C,F,North,N East,Silver,3052.66,10.0
+3528006,11.0,48.0,B,M,North,N West,Gold,6000.0,1.0
+3528324,20.0,22.0,E,M,South East,S & S East,Silver,100.0,2.0
+3528537,9.0,74.0,C,F,Midlands,Midlands,Gold,6000.0,12.0
+3529312,8.0,46.0,F,F,,,Silver,50.0,1.0
+3529592,,48.0,F,F,South East,London,Tin,0.009999999999999998,3.0
+3529657,9.0,32.0,A,F,North,N West,Gold,6000.0,2.0
+3529916,8.0,32.0,F,F,North,N East,Tin,0.009999999999999998,5.0
+3530183,13.0,49.0,E,F,Midlands,Midlands,Silver,500.0,9.0
+3530264,10.0,28.0,D,U,South East,London,Gold,7000.0,16.0
+3530574,12.0,63.0,B,M,South East,S & S East,Gold,5500.0,13.0
+3531090,12.0,76.0,B,M,North,Yorkshire,Silver,364.37999999999994,9.0
+3531236,12.0,,F,U,North,N East,Silver,2000.0,4.0
+3532240,9.0,59.0,D,,Midlands,Midlands,Silver,3000.0,8.0
+3532828,10.0,,B,M,Midlands,Midlands,Gold,18000.0,6.0
+3533069,8.0,59.0,D,F,North,N West,Silver,3000.0,9.0
+3534618,6.0,56.0,B,U,North,N West,Gold,7305.32,9.0
+3534731,8.0,71.0,C,F,South East,London,Platinum,20767.519999999997,3.0
+3535282,10.0,63.0,B,M,South East,London,Gold,6000.0,4.0
+3535614,4.0,61.0,F,F,North,Yorkshire,Silver,3000.0,1.0
+3535959,5.0,43.0,A,,South East,London,Silver,50.0,10.0
+3536378,11.0,48.0,C,F,South East,London,Silver,900.0,5.0
+3536890,5.0,58.0,D,,South West,S West,Tin,0.009999999999999998,5.0
+3537102,6.0,57.0,B,,South East,London,Silver,4500.0,8.0
+3537250,16.0,47.0,A,M,North,Yorkshire,Silver,1000.0,5.0
+3538311,7.0,53.0,E,M,North,N West,Tin,0.009999999999999998,4.0
+3538494,6.0,77.0,E,F,Midlands,East,Gold,6000.0,32.0
+3539164,7.0,69.0,E,M,Midlands,East,Platinum,25162.77,4.0
+3539652,12.0,52.0,B,,Scottish,C Scotland,Tin,0.009999999999999998,5.0
+3540774,8.0,,D,M,North,N West,Tin,0.009999999999999998,5.0
+3540960,,42.0,E,F,South East,S & S East,Silver,0.019999999999999997,5.0
+3541304,18.0,48.0,C,M,Midlands,East,Tin,0.009999999999999998,7.0
+3541401,8.0,71.0,E,F,North,N West,Silver,4884.25,31.0
+3541614,16.0,58.0,C,F,South East,S & S East,Silver,5000.0,9.0
+3542319,11.0,54.0,C,M,,,Gold,8000.0,1.0
+3542785,8.0,51.0,B,F,South East,London,Silver,3000.0,5.0
+3543773,11.0,54.0,D,F,Midlands,Wales & West,Silver,1500.0,8.0
+3544737,11.0,,A,F,North,N West,Gold,8400.0,11.0
+3544990,12.0,61.0,B,U,South East,S & S East,Gold,6000.0,1.0
+3545040,16.0,69.0,E,F,South East,S & S East,Silver,3000.0,8.0
+3545830,11.0,49.0,D,F,South East,London,Tin,0.009999999999999998,5.0
+3546020,6.0,47.0,D,M,South East,London,Tin,0.009999999999999998,8.0
+3546357,12.0,49.0,B,F,Midlands,Wales & West,Silver,600.0,5.0
+3546608,9.0,55.0,B,F,South East,London,Gold,10000.0,5.0
+3546888,7.0,67.0,D,F,Midlands,Midlands,Gold,11035.58,9.0
+3547736,9.0,61.0,F,M,South East,London,Silver,1000.0,4.0
+3547965,4.0,49.0,C,M,Midlands,East,Silver,900.0,9.0
+3548066,,48.0,F,,South East,London,Silver,600.0,4.0
+3548333,10.0,45.0,E,U,North,Yorkshire,Tin,0.009999999999999998,10.0
+3549283,10.0,54.0,F,F,Midlands,Midlands,Silver,100.01,5.0
+3550206,8.0,72.0,F,F,Midlands,East,Tin,0.009999999999999998,8.0
+3550346,14.0,52.0,F,F,Midlands,Midlands,Gold,6053.339999999999,6.0
+3550427,6.0,65.0,F,F,Midlands,Midlands,Silver,3000.0,2.0
+3550583,9.0,70.0,C,F,Midlands,Midlands,Silver,3000.0,5.0
+3550710,10.0,40.0,F,F,Midlands,Midlands,Tin,0.009999999999999998,5.0
+3550869,7.0,53.0,A,,Scottish,C Scotland,Silver,3000.0,7.0
+3551253,11.0,37.0,E,F,,,Tin,0.009999999999999998,4.0
+3551458,5.0,,A,F,Midlands,Midlands,Tin,0.009999999999999998,4.0
+3551512,3.0,69.0,C,,Scottish,C Scotland,Gold,6000.0,12.0
+3552055,5.0,74.0,D,F,North,N West,Gold,6000.0,2.0
+3552489,7.0,33.0,C,F,South East,London,Silver,1500.0,13.0
+3553019,8.0,58.0,C,F,South East,London,Tin,0.009999999999999998,4.0
+3555135,11.0,47.0,F,,South East,London,Gold,6053.349999999999,6.0
+3555933,11.0,53.0,F,F,Midlands,Wales & West,Tin,0.009999999999999998,8.0
+3556271,8.0,46.0,B,F,South East,S & S East,Silver,3000.0,22.0
+3556344,11.0,50.0,B,,South East,London,Tin,0.009999999999999998,5.0
+3556573,3.0,70.0,F,F,South East,London,Silver,3000.0,8.0
+3557448,14.0,40.0,D,F,South East,S & S East,Silver,100.0,1.0
+3557685,8.0,56.0,D,M,Midlands,Midlands,Silver,3000.0,10.0
+3557863,8.0,46.0,F,F,South East,S & S East,Tin,0.009999999999999998,4.0
+3558185,8.0,44.0,D,F,South East,London,Tin,0.009999999999999998,5.0
+3558398,24.0,37.0,B,M,South East,S & S East,Gold,7500.0,
+3559424,7.0,48.0,A,F,South East,London,Gold,6105.32,7.0
+3559491,15.0,71.0,D,F,Midlands,Midlands,Silver,1500.0,5.0
+3560147,9.0,32.0,F,F,South East,London,Silver,600.0,1.0
+3560546,7.0,51.0,D,F,South East,London,Tin,0.009999999999999998,9.0
+3560619,9.0,60.0,D,F,Scottish,N Scot,Gold,11858.52,2.0
+3561216,6.0,52.0,C,F,Midlands,Midlands,Gold,8200.0,7.0
+3561275,8.0,48.0,F,M,North,Yorkshire,Tin,0.009999999999999998,7.0
+3562573,12.0,74.0,B,M,South East,S & S East,Tin,0.009999999999999998,7.0
+3563790,4.0,42.0,D,F,South East,London,Silver,4884.25,8.0
+3563901,,37.0,D,F,South East,London,Silver,3000.01,
+3564827,15.0,67.0,D,,Midlands,Wales & West,Silver,1000.0,9.0
+3565432,14.0,,F,M,Midlands,East,Silver,2000.0,
+3565556,5.0,23.0,C,M,North,N West,Silver,480.0,5.0
+3565742,5.0,,F,F,North,Yorkshire,Silver,600.0,5.0
+3566064,7.0,33.0,F,F,South East,London,Silver,2000.0,11.0
+3566110,6.0,50.0,C,U,Midlands,East,Tin,0.009999999999999998,5.0
+3566161,4.0,51.0,C,F,South East,London,Silver,2200.0,14.0
+3566307,9.0,72.0,C,,Midlands,Midlands,Gold,12000.0,17.0
+3566412,13.0,72.0,E,,Midlands,East,Gold,11500.0,3.0
+3566552,12.0,60.0,C,,Scottish,C Scotland,Gold,8400.0,3.0
+3566811,5.0,20.0,A,F,Midlands,Midlands,Silver,1208.1299999999999,3.0
+3567745,9.0,29.0,D,F,South East,London,Gold,10000.0,3.0
+3567893,16.0,43.0,C,F,Midlands,Wales & West,Tin,0.009999999999999998,6.0
+3568490,11.0,63.0,E,F,North,N West,Silver,300.0,9.0
+3568733,10.0,55.0,D,,Midlands,Midlands,Gold,12000.0,6.0
+3569373,12.0,61.0,F,F,Midlands,Midlands,Silver,1500.0,5.0
+3570118,7.0,78.0,F,,North,Yorkshire,Silver,435.0,5.0
+3570169,4.0,43.0,D,F,Midlands,Midlands,Gold,6000.0,8.0
+3570428,9.0,63.0,C,U,South East,London,Silver,1705.4399999999998,21.0
+3571866,10.0,44.0,A,F,,,Gold,6000.0,1.0
+3573397,10.0,53.0,D,F,South East,London,Gold,9630.0,10.0
+3574393,7.0,60.0,B,F,Midlands,Midlands,Silver,4000.0,1.0
+3575098,9.0,45.0,C,M,South East,London,Silver,2000.0,4.0
+3575365,12.0,40.0,C,F,Midlands,East,Silver,2000.0,4.0
+3575624,11.0,68.0,A,F,South East,S & S East,Gold,15000.0,3.0
+3575756,,56.0,A,F,South East,London,Gold,17549.12,12.0
+3576523,10.0,51.0,F,F,North,N West,Silver,3422.48,6.0
+3577449,14.0,57.0,B,M,South East,London,Silver,800.0,9.0
+3578283,8.0,74.0,B,U,Midlands,East,Gold,9000.0,13.0
+3578690,7.0,43.0,B,U,South East,London,Tin,0.009999999999999998,8.0
+3578763,10.0,51.0,A,F,Midlands,Midlands,Tin,0.009999999999999998,5.0
+3579115,7.0,31.0,F,F,North,Yorkshire,Silver,531.36,7.0
+3579530,11.0,24.0,D,F,South East,S & S East,Gold,6053.349999999999,6.0
+3579921,8.0,45.0,D,F,North,Yorkshire,Tin,0.009999999999999998,4.0
+3581047,4.0,46.0,F,M,South East,London,Silver,3000.0,9.0
+3581233,13.0,33.0,B,U,Midlands,Midlands,Tin,0.009999999999999998,5.0
+3581411,2.0,61.0,C,U,Midlands,Wales & West,Gold,8513.0,4.0
+3581675,6.0,55.0,B,F,South East,London,Tin,0.009999999999999998,5.0
+3581888,12.0,66.0,A,,Midlands,Midlands,Gold,6000.0,2.0
+3583031,4.0,47.0,B,,South East,London,Silver,3000.0,8.0
+3583279,10.0,55.0,F,F,South East,London,Silver,4234.11,12.0
+3583341,13.0,,C,F,Midlands,Wales & West,Silver,840.0,5.0
+3583953,12.0,65.0,C,M,North,N West,Silver,3000.0,8.0
+3584437,7.0,66.0,B,F,Scottish,C Scotland,Gold,6000.0,6.0
+3584852,20.0,48.0,F,M,Midlands,Midlands,Silver,500.0,9.0
+3584909,6.0,51.0,E,,Midlands,East,Tin,0.009999999999999998,8.0
+3585093,9.0,57.0,E,M,South East,London,Silver,3000.0,1.0
+3585174,4.0,77.0,E,F,South East,London,Gold,6035.459999999999,9.0
+3585301,,53.0,D,F,Midlands,Midlands,Tin,0.009999999999999998,5.0
+3585573,11.0,44.0,A,F,South East,London,Gold,6053.349999999999,7.0
